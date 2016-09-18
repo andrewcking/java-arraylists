@@ -8,9 +8,7 @@ import java.util.Comparator;
 
 /**
  *
- * @author Andrew King / 811418557 / ack21572 
- * Assignment 1: Learning Java 
- * Artificial Intelligence - CSCI 6550
+ * @author Andrew King
  * 
  */
 public class JavaRefresh {
